@@ -66,7 +66,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 <details>
   <summary>Version Control System</summary>
   <ul>
@@ -110,7 +109,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
+  cd Hello-world
   git clone git@github.com:Fombi-Favour/Hello-world.git
 ```
 
