@@ -126,7 +126,7 @@ Before you run the project, make sure the root file is **index.html**
 
 ### Run tests
 
-To run tests, you can select the html file to be opened to any browswer of your choice.
+To run tests, you can select the html file to be opened to any browser of your choice.
 
 
 ### Deployment
@@ -176,7 +176,7 @@ If you like this project, I'll bring more interesting projects
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank everybody most especially the Microverse staffs for making it possible to start with my ever first Microverse project.
+  I would like to thank everybody most especially the Microverse staffs for making it possible to start with my ever first Microverse project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
