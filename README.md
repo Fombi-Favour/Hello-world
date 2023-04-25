@@ -1,14 +1,13 @@
 <a name="readme-top"></a>
-
-<div align="center">
   
+<div align="center">
+ 
   <img src="wave.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
 </div>
-
 
 # 📗 Table of Contents
 
@@ -57,6 +56,8 @@
 
 ### Key Features <a name="key-features"></a>
 
+> Describe between 1-3 key features of the application.
+
 - **One page welcoming micronauts**
 - **Site with nice styles**
 
@@ -65,6 +66,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -72,8 +74,10 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
- - **A code editor of your choice (like vs code or Atom and so on)**
+
+- **A code editor of your choice (like vs code or Atom and so on)**
  - **Version Control System (git is preferred)**
+ 
 
 ### Setup
 
@@ -103,7 +107,6 @@ You can deploy this project on github following instructions here:
 
 ## 👥 Author <a name="authors"></a>
 
-
 👤 **Author**
 
 - GitHub: [Fombi-Favour](https://github.com/Fombi-Favour)
@@ -111,7 +114,6 @@ You can deploy this project on github following instructions here:
 - LinkedIn: [Fombi Favour](https://www.linkedin.com/in/fombi-favour/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -123,7 +125,6 @@ Feel free to check the [issues page](https://github.com/Fombi-Favour/Hello-world
 
 
 ## ⭐️ Show your support <a name="support"></a>
-
 
 If you like this project, I'll bring more interesting projects
 
